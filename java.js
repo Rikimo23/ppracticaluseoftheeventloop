@@ -10,3 +10,7 @@ try{
     counter++;
     return increment()
 }
+}catch(e){
+    console.log
+
+}
